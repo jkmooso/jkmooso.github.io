@@ -1,0 +1,51 @@
+body {background-color: black;
+border-style: double;
+border-color: rgb(52, 155, 224);
+border-width: thick;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 30px;
+}
+header { color: white;
+font-size: 58px;
+font-family: oswald;
+}
+h1{color:white;
+font-size: 35px;
+font-family: oswald;
+}
+p {color:white;
+font-family: oswald;
+font-size: 25px;
+padding-left: 50px;
+}
+a{color:rgb(52, 155, 224);
+font-size: 25px;
+font-family: oswald;
+}
+table {border-color: rgb(255, 255, 255);
+color: white;
+font-size: 20px;
+text-align: center;
+font-family: oswald;
+}
+td {border:1px solid rgb(255, 255, 255);
+color: white;
+font-size: 20px;
+text-align: center;
+font-family: oswald;
+}
+th {border:1px solid rgb(255, 255, 255);
+color: white;
+font-size: 20px;
+text-align:center ;
+font-family: oswald;
+}
+li{color: white;
+font-size: 25px;
+font-family: oswald;
+}
+
+
+
+        
